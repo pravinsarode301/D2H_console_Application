@@ -1,4 +1,4 @@
-# D2H_console_Application
+# D2H Application
 D2H Console Application java 8, design pattern, CQRS 
 
 
@@ -25,7 +25,7 @@ Features
 7) Subscription analytics
 
 
-Some snapshots
+Some snapshots for better glance
 
 Our Menu are as follow !
 1. View current balance in the account
