@@ -15,12 +15,14 @@ Design pattern identified and applied
 10) Singleton pattern
 11) CQRS Pattern
 
-features
+Features
 1) login features
 2) Subscription History
 3) Subscription packs (BASE, GOLD, SILVER) available
 4) Value added channel subscription made available 
 5) Value added services subscription made available 
+6) User Profile
+7) Subscription analytics
 
 
 Some snapshots
@@ -40,6 +42,7 @@ Our Menu are as follow !
 12. Exit
 Make proper selection to proceed....
 
-Note for audience :
-*Contributors are always welcome, this is small try to enclosed all techniques for glace and those people who just start learning design pattern. I hope, you all will show love to contribute to this.
+Note for audience* :
+
+Contributors are always welcome, this is small try to enclosed all techniques for glace and those people who just start learning design pattern. I hope, you all will show love to contribute to this.
 
